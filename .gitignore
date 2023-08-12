@@ -4,4 +4,3 @@ Dockerfile
 *.rpm
 *.zip
 *.env
-*.json
